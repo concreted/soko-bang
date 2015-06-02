@@ -1,0 +1,507 @@
+# depslib dependency file v1.0
+1342323068 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\main.cpp
+	<SDL/SDL.h>
+	"engine.h"
+
+1325742239 c:\sdl\include\sdl\sdl.h
+	"SDL_main.h"
+	"SDL_stdinc.h"
+	"SDL_audio.h"
+	"SDL_cdrom.h"
+	"SDL_cpuinfo.h"
+	"SDL_endian.h"
+	"SDL_error.h"
+	"SDL_events.h"
+	"SDL_loadso.h"
+	"SDL_mutex.h"
+	"SDL_rwops.h"
+	"SDL_thread.h"
+	"SDL_timer.h"
+	"SDL_video.h"
+	"SDL_version.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_main.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_stdinc.h
+	"SDL_config.h"
+	<sys/types.h>
+	<stdio.h>
+	<stdlib.h>
+	<stddef.h>
+	<stdarg.h>
+	<stdlib.h>
+	<malloc.h>
+	<stddef.h>
+	<stdarg.h>
+	<memory.h>
+	<string.h>
+	<strings.h>
+	<inttypes.h>
+	<stdint.h>
+	<ctype.h>
+	<iconv.h>
+	"begin_code.h"
+	<alloca.h>
+	<malloc.h>
+	<malloc.h>
+	<malloc.h>
+	<stdlib.h>
+	"close_code.h"
+
+1326114587 c:\sdl\include\sdl\sdl_config.h
+	"SDL_platform.h"
+	"SDL_config_dreamcast.h"
+	"SDL_config_macos.h"
+	"SDL_config_macosx.h"
+	"SDL_config_symbian.h"
+	"SDL_config_win32.h"
+	"SDL_config_os2.h"
+	"SDL_config_minimal.h"
+
+1325742239 c:\sdl\include\sdl\sdl_platform.h
+
+1326114594 c:\sdl\include\sdl\sdl_config_win32.h
+	"SDL_platform.h"
+
+1326114600 c:\sdl\include\sdl\begin_code.h
+
+1325742239 c:\sdl\include\sdl\close_code.h
+
+1325742239 c:\sdl\include\sdl\sdl_audio.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_endian.h"
+	"SDL_mutex.h"
+	"SDL_thread.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_error.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_endian.h
+	"SDL_stdinc.h"
+	<endian.h>
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_mutex.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_thread.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_mutex.h"
+	"begin_code.h"
+	<process.h>
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_rwops.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_cdrom.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_cpuinfo.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_events.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_active.h"
+	"SDL_keyboard.h"
+	"SDL_mouse.h"
+	"SDL_joystick.h"
+	"SDL_quit.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_active.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_keyboard.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_keysym.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_keysym.h
+
+1325742239 c:\sdl\include\sdl\sdl_mouse.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_video.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_video.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"SDL_rwops.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_joystick.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_quit.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+
+1325742239 c:\sdl\include\sdl\sdl_loadso.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_timer.h
+	"SDL_stdinc.h"
+	"SDL_error.h"
+	"begin_code.h"
+	"close_code.h"
+
+1325742239 c:\sdl\include\sdl\sdl_version.h
+	"SDL_stdinc.h"
+	"begin_code.h"
+	"close_code.h"
+
+1335966459 c:\bass\c\bass.h
+	<wtypes.h>
+	<stdint.h>
+
+1342318136 c:\users\aric\dropbox\_programming\c++ programming\sokoban\engine.h
+	<SDL/SDL.h>
+	<BASS.h>
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<stdexcept>
+	<cmath>
+	"soundmanager.h"
+	"texturemanager.h"
+	"renderobject.h"
+	"rendermanager.h"
+	"inputmanager.h"
+	"sprite.h"
+	"levelmanager.h"
+	"rules.h"
+
+1342323396 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sprite.cpp
+	"engine.h"
+	"sprite.h"
+
+1342321497 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sprite.h
+	"engine.h"
+
+1341784808 c:\users\aric\dropbox\_programming\c++ programming\sokoban\renderobject.h
+	"engine.h"
+
+1339978176 c:\users\aric\dropbox\_programming\c++ programming\sokoban\texturemanager.h
+	"engine.h"
+
+1339966489 c:\users\aric\dropbox\_programming\c++ programming\sokoban\rendermanager.h
+	"engine.h"
+
+1342316403 c:\users\aric\dropbox\_programming\c++ programming\sokoban\inputmanager.h
+	"engine.h"
+
+1342318195 c:\users\aric\dropbox\_programming\c++ programming\sokoban\levelmanager.h
+	"engine.h"
+
+1342323282 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\levelmanager.cpp
+	"engine.h"
+	"levelmanager.h"
+
+1341810564 c:\users\aric\dropbox\_programming\c++ programming\sokoban\soundmanager.h
+	"engine.h"
+
+1341810599 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\soundmanager.cpp
+	"engine.h"
+
+1340593824 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\texturemanager.cpp
+	"engine.h"
+	"texturemanager.h"
+
+1342491488 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\soundmanager.cpp
+	"engine.h"
+
+1342977582 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\engine.h
+	<SDL/SDL.h>
+	<BASS.h>
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<stdexcept>
+	<cmath>
+	"soundmanager.h"
+	"texturemanager.h"
+	"renderobject.h"
+	"rendermanager.h"
+	"sprite.h"
+	"inputmanager.h"
+	"levelmanager.h"
+	"rules.h"
+	"menu.h"
+
+1339978176 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\texturemanager.h
+	"engine.h"
+
+1342986910 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\renderobject.h
+	"engine.h"
+
+1339966489 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\rendermanager.h
+	"engine.h"
+
+1342982017 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\inputmanager.h
+	"engine.h"
+
+1343104682 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sprite.h
+	"engine.h"
+
+1343006135 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\levelmanager.h
+	"engine.h"
+
+1341810564 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\soundmanager.h
+	"engine.h"
+
+1343007231 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sprite.cpp
+	"engine.h"
+	"sprite.h"
+
+1343006651 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\levelmanager.cpp
+	"engine.h"
+	"levelmanager.h"
+
+1340769366 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\renderobject.cpp
+	"engine.h"
+	"renderobject.h"
+
+1342496962 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\main.cpp
+	<SDL/SDL.h>
+	"engine.h"
+
+1340769366 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\renderobject.cpp
+	"engine.h"
+	"renderobject.h"
+
+1342416715 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\texturemanager.cpp
+	"engine.h"
+	"texturemanager.h"
+
+1343005939 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\rules.h
+	"engine.h"
+
+1343005939 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\rules.cpp
+	"engine.h"
+	"rules.h"
+
+1342292140 c:\users\aric\dropbox\_programming\c++ programming\sokoban\rules.h
+	"engine.h"
+
+1342321496 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\rules.cpp
+	"engine.h"
+	"rules.h"
+
+1344224223 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\main.cpp
+	<SDL/SDL.h>
+	"engine.h"
+
+1344127495 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\engine.h
+	<SDL/SDL.h>
+	<BASS.h>
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<stdexcept>
+	<cmath>
+	"soundmanager.h"
+	"texturemanager.h"
+	"renderobject.h"
+	"rendermanager.h"
+	"sprite.h"
+	"inputmanager.h"
+	"levelmanager.h"
+	"rules.h"
+	"menu.h"
+
+1339978176 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\texturemanager.h
+	"engine.h"
+
+1344102885 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\renderobject.h
+	"engine.h"
+
+1344126019 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\rendermanager.h
+	"engine.h"
+
+1342982018 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\inputmanager.h
+	"engine.h"
+
+1344224099 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\levelmanager.h
+	"engine.h"
+
+1344103028 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\sprite.h
+	"engine.h"
+
+1343005940 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\rules.h
+	"engine.h"
+
+1344223393 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\soundmanager.h
+	"engine.h"
+
+1344101865 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\renderobject.cpp
+	"engine.h"
+	"renderobject.h"
+
+1344203049 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\rules.cpp
+	"engine.h"
+	"rules.h"
+
+1344223630 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\soundmanager.cpp
+	"engine.h"
+
+1344203101 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\sprite.cpp
+	"engine.h"
+	"sprite.h"
+
+1342416716 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\texturemanager.cpp
+	"engine.h"
+	"texturemanager.h"
+
+1342318048 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\inputmanager.cpp
+	"engine.h"
+	"levelmanager.h"
+
+1342984328 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\inputmanager.cpp
+	"engine.h"
+	"levelmanager.h"
+
+1342408486 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\menu.h
+	"engine.h"
+
+1344224099 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\levelmanager.cpp
+	"engine.h"
+	"levelmanager.h"
+
+1342408488 c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\menu.h
+	"engine.h"
+
+1343488309 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\inputmanager.cpp
+	"engine.h"
+	"levelmanager.h"
+
+1344146752 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\levelmanager.cpp
+	"engine.h"
+	"levelmanager.h"
+
+1344127495 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\engine.h
+	<SDL/SDL.h>
+	<BASS.h>
+	<vector>
+	<string>
+	<iostream>
+	<sstream>
+	<stdexcept>
+	<cmath>
+	"soundmanager.h"
+	"texturemanager.h"
+	"renderobject.h"
+	"rendermanager.h"
+	"sprite.h"
+	"inputmanager.h"
+	"levelmanager.h"
+	"rules.h"
+	"menu.h"
+
+1341810566 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\soundmanager.h
+	"engine.h"
+
+1339978176 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\texturemanager.h
+	"engine.h"
+
+1344102885 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\renderobject.h
+	"engine.h"
+
+1344126019 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\rendermanager.h
+	"engine.h"
+
+1344103028 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\sprite.h
+	"engine.h"
+
+1342982018 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\inputmanager.h
+	"engine.h"
+
+1344143563 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\levelmanager.h
+	"engine.h"
+
+1343005940 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\rules.h
+	"engine.h"
+
+1342408488 c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\menu.h
+	"engine.h"
+
+1344101865 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\renderobject.cpp
+	"engine.h"
+	"renderobject.h"
+
+1344129864 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\rules.cpp
+	"engine.h"
+	"rules.h"
+
+1342491490 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\soundmanager.cpp
+	"engine.h"
+
+1342416716 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\texturemanager.cpp
+	"engine.h"
+	"texturemanager.h"
+
+1343488309 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\inputmanager.cpp
+	"engine.h"
+	"levelmanager.h"
+
+1344141491 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\main.cpp
+	<SDL/SDL.h>
+	"engine.h"
+
+1344116200 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\sprite.cpp
+	"engine.h"
+	"sprite.h"
+
+1344128237 source:c:\users\aric\dropbox\_programming\c++ programming\sokoban\sokoban\rendermanager.cpp
+	"engine.h"
+	"rendermanager.h"
+
+1344128237 source:c:\users\aric\documents\my dropbox\_programming\c++ programming\sokoban\sokoban\rendermanager.cpp
+	"engine.h"
+	"rendermanager.h"
+

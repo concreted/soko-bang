@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<ActiveTarget name="Debug" />
+	<File name="engine.h" open="1" top="0" tabpos="2">
+		<Cursor position="196" topLine="0" />
+	</File>
+	<File name="inputmanager.h" open="1" top="0" tabpos="12">
+		<Cursor position="163" topLine="0" />
+	</File>
+	<File name="levelmanager.cpp" open="1" top="1" tabpos="14">
+		<Cursor position="7546" topLine="262" />
+	</File>
+	<File name="levelmanager.h" open="1" top="0" tabpos="13">
+		<Cursor position="7941" topLine="220" />
+	</File>
+	<File name="main.cpp" open="1" top="0" tabpos="1">
+		<Cursor position="4954" topLine="177" />
+	</File>
+	<File name="rendermanager.h" open="1" top="0" tabpos="11">
+		<Cursor position="550" topLine="0" />
+	</File>
+	<File name="renderobject.cpp" open="1" top="0" tabpos="10">
+		<Cursor position="60" topLine="0" />
+	</File>
+	<File name="renderobject.h" open="1" top="0" tabpos="9">
+		<Cursor position="1716" topLine="0" />
+	</File>
+	<File name="rules.cpp" open="1" top="0" tabpos="6">
+		<Cursor position="17385" topLine="313" />
+	</File>
+	<File name="rules.h" open="1" top="0" tabpos="5">
+		<Cursor position="490" topLine="0" />
+	</File>
+	<File name="soundmanager.cpp" open="1" top="0" tabpos="15">
+		<Cursor position="312" topLine="0" />
+	</File>
+	<File name="soundmanager.h" open="1" top="0" tabpos="16">
+		<Cursor position="397" topLine="0" />
+	</File>
+	<File name="sprite.cpp" open="1" top="0" tabpos="4">
+		<Cursor position="3194" topLine="50" />
+	</File>
+	<File name="sprite.h" open="1" top="0" tabpos="3">
+		<Cursor position="2670" topLine="47" />
+	</File>
+	<File name="texturemanager.cpp" open="1" top="0" tabpos="8">
+		<Cursor position="0" topLine="0" />
+	</File>
+	<File name="texturemanager.h" open="1" top="0" tabpos="7">
+		<Cursor position="139" topLine="0" />
+	</File>
+</CodeBlocks_layout_file>

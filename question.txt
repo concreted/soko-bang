@@ -1,0 +1,40 @@
+Given the following header file, if 'a' is defined inside the main body, I get a warning "unused variable 'a'" and linker error "undefined reference to 'a'. 
+
+header.h:
+
+	#ifndef HEADER_H
+	#define HEADER_H
+
+	#include <iostream>
+
+	extern int* a;
+
+	void f()
+	{
+		std::cout<<*a <<std::endl;
+		return;
+	}
+
+	#endif
+	
+main.cpp:
+
+	#include "header.h"
+
+	int main()
+	{
+		int* a = new int(10);
+
+		f();
+	}
+
+However, if 'a' is defined outside of main(), the program links with no errors and f() works as expected (prints 10). Why is this? 
+
+Example:
+
+	int* a = new int(10);
+
+	int main()
+	{
+		f();
+	}

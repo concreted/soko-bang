@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6" />
+	<Project>
+		<Option title="sokoban" />
+		<Option pch_mode="2" />
+		<Option compiler="gcc" />
+		<Build>
+			<Target title="Debug">
+				<Option output="bin\Debug\sdl_test_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Debug\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-g" />
+				</Compiler>
+			</Target>
+			<Target title="Release">
+				<Option output="bin\Release\sdl_test_2" prefix_auto="1" extension_auto="1" />
+				<Option object_output="obj\Release\" />
+				<Option type="0" />
+				<Option compiler="gcc" />
+				<Compiler>
+					<Add option="-O2" />
+				</Compiler>
+				<Linker>
+					<Add option="-s" />
+				</Linker>
+			</Target>
+		</Build>
+		<Compiler>
+			<Add option="-Wall" />
+			<Add option="-g" />
+			<Add directory="C:\SDL\include" />
+			<Add directory="C:\BASS\c" />
+		</Compiler>
+		<Linker>
+			<Add library="mingw32" />
+			<Add library="SDLmain" />
+			<Add library="SDL.dll" />
+			<Add library="user32" />
+			<Add library="gdi32" />
+			<Add library="winmm" />
+			<Add library="dxguid" />
+			<Add library="C:\BASS\c\bass.lib" />
+			<Add directory="C:\SDL\lib" />
+			<Add directory="C:\BASS\c" />
+		</Linker>
+		<Unit filename="cb.bmp" />
+		<Unit filename="engine.h" />
+		<Unit filename="inputmanager.cpp" />
+		<Unit filename="inputmanager.h" />
+		<Unit filename="levelmanager.cpp" />
+		<Unit filename="levelmanager.h" />
+		<Unit filename="main.cpp" />
+		<Unit filename="menu.h" />
+		<Unit filename="rendermanager.cpp" />
+		<Unit filename="rendermanager.h" />
+		<Unit filename="renderobject.cpp" />
+		<Unit filename="renderobject.h" />
+		<Unit filename="rules.cpp" />
+		<Unit filename="rules.h" />
+		<Unit filename="soundmanager.cpp" />
+		<Unit filename="soundmanager.h" />
+		<Unit filename="sprite.cpp" />
+		<Unit filename="sprite.h" />
+		<Unit filename="texturemanager.cpp" />
+		<Unit filename="texturemanager.h" />
+		<Extensions>
+			<code_completion />
+			<debugger />
+		</Extensions>
+	</Project>
+</CodeBlocks_project_file>
